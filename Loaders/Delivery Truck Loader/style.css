@@ -6,7 +6,7 @@
 }
 
 :root {
-  --hue: 37;
+  --hue: 38;
   --bg: hsl(var(--hue), 90%, 50%);
   --fg: hsl(var(--hue), 90%, 10%);
   --trans-dur: 0.3s;
